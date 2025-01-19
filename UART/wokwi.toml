@@ -1,0 +1,4 @@
+[wokwi]
+version = 1
+firmware = 'build/UART.uf2'
+elf = 'build/UART.elf'
